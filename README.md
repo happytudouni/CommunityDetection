@@ -1,5 +1,5 @@
 # CommunityDetection
-Please see the codes, results and plots in the CommunityAnalysis.html file. The programs are written in Python using Jupyter Notebook.  
+Please see the codes, data, results and plots in the CommunityAnalysis.html file. The programs are written in Python using Jupyter Notebook.  
 To download: Please click on "clone or download" and then choose "Download Zip".
 To open the html file: Please open it with Safari if you are using a Mac or Google Chrome if you are using a PC.
 
